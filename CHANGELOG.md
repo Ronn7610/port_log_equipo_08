@@ -1,5 +1,16 @@
 # CHANGELOG
 
+# Sprint 2
+
+## [Ejercicio 01]
+
+- Clonación del repositorio del Sprint 1 y creación de la rama `Sprint_2`.
+- Descarga y descompresión del dataset de imágenes en `port_log/data/raw/imgs`.
+- Verificación de los archivos del Sprint 1 y conteo de sus registros.
+- Actualización del `README.md` con el contexto del Sprint 2.
+
+# Sprint 1
+
 ## [Ejercicio 07]
 
 - Análisis a modo de conclusión sobre el trabajo realizado, la calidad de los datos y los patrones de infracción.

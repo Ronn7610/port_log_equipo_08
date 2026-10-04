@@ -17,3 +17,23 @@ Descargar el dataset [port_movements](https://raw.githubusercontent.com/HAD141/d
 `https://raw.githubusercontent.com/HAD141/datasets/refs/heads/main/TrabajosPracticos/port_log/port_movements.csv`
 
 ---
+
+### Sprint 2 (sprint actual)
+
+**Objetivo:** aplicar conocimientos de tratamiento de imágenes y programación
+limpia sobre el contexto del sistema portuario.
+
+Los radares ubicados en los accesos a los muelles capturan evidencia
+fotográfica de las infracciones de velocidad. Las cámaras toman fotografías de
+la zona de proa donde está pintada la matrícula del buque. A veces el sistema
+recorta la zona de matrícula (`plates`) y otras entrega la imagen completa
+(`completes`).
+
+No todas las infracciones tienen imagen asociada, no todas las imágenes
+corresponden a una infracción real (falsos positivos del radar) y puede haber
+errores de detección óptica (imágenes borrosas, nocturnas o lejanas).
+
+El objetivo es responder: **¿qué infracciones tienen evidencia visual válida?**
+
+Se utilizan el dataset procesado en el Sprint 1 y el
+[dataset de imágenes](https://github.com/HAD141/datasets/raw/refs/heads/main/TrabajosPracticos/port_log/port_log_images.zip).
