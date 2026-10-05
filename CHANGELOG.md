@@ -2,6 +2,14 @@
 
 # Sprint 2
 
+## [Ejercicio 02]
+
+- Listado de las imágenes disponibles con su tamaño en KB.
+- Separación de las imágenes en los grupos `plates` y `completes`.
+- Creación de `group_images` y guardado en `port_log/data/interim/group_images.json`.
+- Cálculo de la resolución, el área y el tamaño promedio de cada grupo.
+- Creación de la función `mostrar_muestra`.
+
 ## [Ejercicio 01]
 
 - Clonación del repositorio del Sprint 1 y creación de la rama `Sprint_2`.
