@@ -2,6 +2,13 @@
 
 # Sprint 2
 
+## [Ejercicio 05]
+
+- Cálculo de las métricas del dataset final con la función `calcular_metricas`.
+- Infracciones con y sin imagen asociada.
+- Imágenes sin match, ratio promedio y tasa de match por grupo.
+- Infracciones PENDIENTES sin evidencia visual.
+
 ## [Ejercicio 04]
 
 - Creación del lector de easyocr y de la función `extraer_matricula`.
