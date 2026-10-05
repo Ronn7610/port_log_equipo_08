@@ -2,6 +2,14 @@
 
 # Sprint 2
 
+## [Ejercicio 06]
+
+- Cálculo del porcentaje de infracciones validadas visualmente.
+- Medición del brillo, la nitidez y el tamaño del texto de cada imagen.
+- Comparación de la tasa de match según las condiciones de captura.
+- Resumen de la cobertura de buques por grupo de imágenes.
+- Redacción de la conclusión sobre la relación entre los datos tabulares y las imágenes capturadas.
+
 ## [Ejercicio 05]
 
 - Cálculo de las métricas del dataset final con la función `calcular_metricas`.
