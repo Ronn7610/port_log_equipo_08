@@ -2,6 +2,15 @@
 
 # Sprint 2
 
+## [Ejercicio 04]
+
+- Creación del lector de easyocr y de la función `extraer_matricula`.
+- Comparación del OCR en cada etapa del preprocesamiento y elección de la mejor etapa para cada grupo.
+- Almacenamiento de `matricula_imagen` en `group_images`.
+- Matching de matrículas (75% o más de caracteres correctos en posición).
+- Asociación de cada infracción con la mejor imagen de su buque.
+- Guardado de `port_log/data/processed/port_movements_image.csv` y de `port_log/data/processed/image_matches.csv`.
+
 ## [Ejercicio 03]
 
 - Creación de la función `aplicar_transformacion` para el preprocesamiento.
