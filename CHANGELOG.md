@@ -2,6 +2,15 @@
 
 # Sprint 2
 
+## [Ejercicio 03]
+
+- Creación de la función `aplicar_transformacion` para el preprocesamiento.
+- Conversión a escala de grises en `03_01_gray`.
+- Ecualización de histograma en `03_02_equalized`.
+- Suavizado gaussiano en `03_03_blur`.
+- Detección de bordes con Canny en `03_04_canny` (umbrales 250 y 400).
+- Se ignoran en git las imágenes procesadas por ser regenerables.
+
 ## [Ejercicio 02]
 
 - Listado de las imágenes disponibles con su tamaño en KB.
